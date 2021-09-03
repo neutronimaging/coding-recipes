@@ -1,10 +1,20 @@
 title: Coding recipes
-author: Anders Kaestner
-email: anders.kaestner@psi.ch
+authors:
+  anders:
+    name: Anders Kaestner
+    display_name: Anders
+    gravatar: c66919cb194f96c696c1da0c47354a6a
+    email: anders.kaestner@psi.ch
+    web: http://www.psi.ch
+    github: anderskaestner
+  jean:
+    name: Jean Bilheux
+    display_name: Jean
+    email: x@y.z
+    web: http://x.html
+    twitter: 
+    github: x
 description: "In this blog I am posting ideas and recipes that I hope are useful for others as well."
-
-# social links
-github_username:  anderskaestner # DO NOT include the @ character, or else the build will fail!
 
 show_excerpts: true # set to false to remove excerpts on the homepage
 theme: minima
