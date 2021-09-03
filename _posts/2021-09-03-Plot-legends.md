@@ -1,6 +1,7 @@
 ---
 title: Placement of plot legends
 date: 2021-09-03
+author: Anders Kaestner
 ---
 Sometimes it is unnescessary to add a plot legend in each subplot. It will only clutter the view and will not add any new information. The solution to this problem is presented in the following notebook.
 
