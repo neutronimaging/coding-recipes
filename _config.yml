@@ -2,7 +2,7 @@ title: Coding recipes
 author: Anders Kaestner
 email: anders.kaestner@psi.ch
 description: > # this means to ignore newlines until "baseurl:"
-In this blog I'm posting ideas and recipes that I hope are useful for others as well. 
+In this blog I am posting ideas and recipes that I hope are useful for others as well. 
 
 # social links
 github_username:  anderskaestner # DO NOT include the @ character, or else the build will fail!
