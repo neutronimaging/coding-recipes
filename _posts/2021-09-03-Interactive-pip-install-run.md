@@ -8,12 +8,12 @@ If you are working on a python library that will be installed via `pip` and you 
 live how your code behave as you are making changes, there is a better way rather than having to
 install the package each time
 
-```shell script
+```
 pip install -e
 ```
 
 and now, any changes you make to the code will be automatically updated in the code
 
-```shell script
+```
 python -m name_of_package
 ```
