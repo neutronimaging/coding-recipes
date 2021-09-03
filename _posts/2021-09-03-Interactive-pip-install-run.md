@@ -9,11 +9,11 @@ live how your code behave as you are making changes, there is a better way rathe
 install the package each time
 
 ```shell script
-$ pip install -e
+pip install -e
 ```
 
 and now, any changes you make to the code will be automatically updated in the code
 
 ```shell script
-$ python -m name_of_package
+python -m name_of_package
 ```
