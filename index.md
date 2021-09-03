@@ -1,7 +1,5 @@
 ---
-title: "Welcome to my blog"
+title: "Welcome to Coding Recipes blog"
 ---
 
-I'm glad you are here. I plan to talk about ...
-
-This is fun
+I created this blog to share the hours of searching for ways to solve different coding problems. 
