@@ -2,4 +2,4 @@
 title: "Welcome to Coding Recipes blog"
 ---
 
-I created this blog to share the hours of searching for ways to solve different coding problems. 
+This blog was created to share the hours of searching for ways to solve different coding problems during our development efforts. 
