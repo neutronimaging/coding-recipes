@@ -1,4 +1,5 @@
 title: Coding recipes
+sidebar: toc
 authors:
   anders:
     name: Anders Kaestner
@@ -16,5 +17,5 @@ authors:
     github: x
 description: "In this blog I am posting ideas and recipes that I hope are useful for others as well."
 
-show_excerpts: true # set to false to remove excerpts on the homepage
+show_excerpts: false # set to false to remove excerpts on the homepage
 theme: minima
