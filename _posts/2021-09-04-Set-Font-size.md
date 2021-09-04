@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Font sizes
+title: Font sizes in matplotlib
 date: 2021-09-04
 author: Anders Kaestner
 tags: matplotlib font size
