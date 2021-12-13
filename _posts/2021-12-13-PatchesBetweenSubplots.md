@@ -6,6 +6,7 @@ author:
 ---
 
 In some figures you may want to point in a region and relate to a position in a plot. This can be done using ```ConnectionPatch``` from matplotlib.
+![patches](https://user-images.githubusercontent.com/11174364/145775224-98ac90af-db41-459b-9f1b-ed58ab2f63c2.png)
 
 ```python
 from matplotlib.patches import ConnectionPatch
