@@ -5,7 +5,7 @@ author:
 - Anders Kaestner
 ---
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/neutronimaging/coding-recipes/blob/main/python/ErrorBands.ipynb) <a href="[https://github.com/ImagingLectures/Quantitative-Big-Imaging-2022/blob/main/Lectures/Lecture-02/02-Datasets.ipynb](https://github.com/neutronimaging/coding-recipes/blob/main/python/ErrorBands.ipynb)"><img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg" height="40px"/></a>
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/neutronimaging/coding-recipes/blob/main/python/ErrorBands.ipynb) <a href="[https://github.com/ImagingLectures/Quantitative-Big-Imaging-2022/blob/main/Lectures/Lecture-02/02-Datasets.ipynb](https://github.com/neutronimaging/coding-recipes/blob/main/python/ErrorBands.ipynb)"><img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg" height="30px"/></a>
 
 Error bands is often easier to interpret than a cluttered scatter plot. Here is an example how to create the error bands using ```numpy.convolve()``` for the moving average and standard devivation which are needed to display the bands. The error bands are plotted using ```matplotlib.pyplot.fillbetween()```.
 
