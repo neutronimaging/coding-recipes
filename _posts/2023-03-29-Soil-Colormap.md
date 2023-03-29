@@ -4,6 +4,8 @@ date: 2023-03-29 07:50
 author:
 - Anders Kaestner
 ---
+
+
 Define the colormap generating function
 ```python
 def soilwater(N=100) :
