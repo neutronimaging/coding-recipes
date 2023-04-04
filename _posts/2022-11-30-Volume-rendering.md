@@ -10,6 +10,13 @@ conda install -c conda-forge pyvista
 conda install -c conda-forge imageio-ffmpeg
 ```
 
+You can for example produce movies like 
+![](https://github.com/neutronimaging/coding-recipes/blob/main/python/ortho.gif)
 
-### deprecated link
-<a href="https://github.com/neutronimaging/coding-recipes/blob/main/python/ErrorBands.ipynb)"><img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg" height="30px"/></a>
+
+### Link to notebook
+<a href="https://github.com/neutronimaging/coding-recipes/blob/main/python/PyVistaDemos.ipynb)"><img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg" height="30px"/></a>
+
+
+You need to download the data set [_legorecon.tif_](https://github.com/neutronimaging/coding-recipes/blob/main/python/legorecon.tif) to use the notebook.
+
