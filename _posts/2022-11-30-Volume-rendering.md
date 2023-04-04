@@ -11,7 +11,7 @@ conda install -c conda-forge imageio-ffmpeg
 ```
 
 You can for example produce movies like 
-![](https://github.com/neutronimaging/coding-recipes/blob/main/python/ortho.gif)
+![OrthoMovie](https://github.com/neutronimaging/coding-recipes/blob/main/python/orbit.gif)
 
 
 ### Link to notebook
