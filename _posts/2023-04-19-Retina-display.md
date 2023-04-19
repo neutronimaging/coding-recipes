@@ -1,6 +1,6 @@
 ---
 title: "Improve matplotlib sharpness on Apple Retina screens"
-date: 2023-04-19 10:50
+date: 2023-04-19
 author:
 - Anders Kaestner
 ---
