@@ -6,6 +6,7 @@ author:
 ---
 
 It is often good to be able to select a ROI in a figure for using in the next calculations. Matplotlib offers this ability in the widgets section. 
+<img width="398" alt="Screenshot 2023-09-05 at 11 23 59" src="https://github.com/neutronimaging/coding-recipes/assets/11174364/a47e864f-2099-4fac-bccb-738688c26b78">
 
 You need to 
 - import the selector
