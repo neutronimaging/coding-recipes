@@ -20,8 +20,8 @@ the interaction will not work otherwise.
 
 The following notebook is inspired by the [matplotlib documentation example](https://matplotlib.org/stable/gallery/widgets/rectangle_selector.html)
 
+<a href="https://github.com/neutronimaging/coding-recipes/blob/main/python/ROISelection.ipynb"><img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg" height="30px"/></a>
 
-https://github.com/neutronimaging/coding-recipes/blob/main/python/ROISelection.ipynb
 
 
 
