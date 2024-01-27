@@ -22,3 +22,4 @@ for idx,i in enumerate([1,2,4,8]) :
     plt.fill_between(x,y1=0,y2=y,color=cycle[idx],alpha=0.1)
 ```
 
+![The plot](https://github.com/neutronimaging/coding-recipes/assets/11174364/d98b4d89-19ed-4f89-8232-82129c880288)
