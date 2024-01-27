@@ -1,7 +1,7 @@
 ---
 title: Curve fitting
 author: Anders Kaestner
-date: 2024-01-27 16:40
+date: 2024-01-27 01:40
 ---
 
 The curve fitting exmaple in the post 2021-09-04 has been exanded to also include uncertainties. 
