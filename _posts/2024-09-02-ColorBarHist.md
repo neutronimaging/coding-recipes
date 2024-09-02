@@ -6,6 +6,7 @@ date: 2024-09-02 08:00:00
 
 It can help to understand the color map distribution in an image if there is a histogram integrated in the colorbar.
 
+![Unknown](https://github.com/user-attachments/assets/ce906251-3b0f-405a-bbfb-84b26f028116)
 
 ```python
 import matplotlib.pyplot as plt
@@ -35,5 +36,6 @@ cbar.ax.set_xlabel('Distribution')
 plt.show()
 ```
 
-
+<a href="https://colab.research.google.com/github/neutronimaging/coding-recipes/blob/main/python/ColorbarHistogram.ipynb" target="_blank">
+  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
 
