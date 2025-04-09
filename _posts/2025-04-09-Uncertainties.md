@@ -18,6 +18,12 @@ or
 pip install uncertainties
 ```
 
+Then, in python you import
+```python
+from uncertainties import ufloat
+from uncertainties import numpy as unp # for numpy support
+```
+
 ## Example
 
 ### Beer-Lamberts law
