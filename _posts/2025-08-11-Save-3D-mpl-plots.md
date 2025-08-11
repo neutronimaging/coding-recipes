@@ -44,11 +44,11 @@ The generated '.pgf'-file is then imported in a latex file like.
 \input{plot.pgf}
 \end{document}
 ```
-Here, saved as 'wrapper.tex
+Here, saved as _wrapper.tex_
 
 Run pdflatex 
 ```bash
-pdflatex trapper.tex
+pdflatex wrapper.tex
 ```
 
 This should produce a _wrapper.pdf_ file with the plot.
